@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.rnfireauth">
+  package="com.yossale.quotly">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

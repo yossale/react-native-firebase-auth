@@ -1,4 +1,4 @@
-package com.rnfireauth;
+package com.yossale.quotly;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "rnfireauth";
+        return "quotly";
     }
 }

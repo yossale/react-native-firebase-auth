@@ -1,4 +1,4 @@
-package com.rnfireauth;
+package com.yossale.quotly;
 
 import android.app.Application;
 import android.util.Log;
